@@ -5,7 +5,7 @@ __Описание проекта__
 
 🔥 [Ссылка на макет](https://www.figma.com/file/qXZjpqrgj0jjb9IZGRQZdT/Keanu-freelancer?node-id=1%3A2)
 
-🔥 [Ссылка на Githab Pages](https://vishnevetskayasasha.github.io/Keanu-freelancer/)
+🔥 [Ссылка на Githab Pages](https://anastasiamaxyuta.github.io/Keanu_freelancer/)
 
 __Что было использовано в работе:__
 *  HTML + CSS;
