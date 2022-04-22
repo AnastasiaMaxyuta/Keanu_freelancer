@@ -1,0 +1,15 @@
+.hero__avatar{
+  width: 384px;
+  height: 384px;
+  align-self: center;
+  border-radius: 50%;
+  border: 11px solid #FFFFFF;
+}
+
+@media screen and (max-width: 455px ) {
+  .hero__avatar {
+    width: 113px;
+    height: 113px;
+    border: 3px solid #FFFFFF;
+  }
+}
